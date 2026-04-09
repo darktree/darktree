@@ -1,5 +1,5 @@
 <div align="center">
 
-${\color{purple} I SWEAR I WILL UPDATE THIS $
+ <span style="color: purple;">I SWEAR I WILL UPDATE THIS</span>
 
 </div>

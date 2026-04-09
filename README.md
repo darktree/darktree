@@ -1,5 +1,5 @@
 <div align="center">
 
- ${\color{gray} hi \ blahblahblah}$
+ ${\color{purple} hi \ blahblahblah}$
 
 </div>

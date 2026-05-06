@@ -1,6 +1,6 @@
 <div align="center">
 
- ${\color{purple} hi }$
+ ${\color{purple} h \ i }$
 
 
 

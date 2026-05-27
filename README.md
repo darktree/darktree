@@ -1,10 +1,10 @@
- ${\color{6852ad} i \ am \ mostly \ afk \ or \ offtab }$
- ${\color{564cb3} i \ also \ have \ public \ chat \ off \ 99% \ of \ the \ time }$
- ${\color{5640bf} if \ you \ want \ to \ talk \ to \ me, \ whisper \ me \ because \ i \ wont \ see \ it \ otherwise }$
-${\color{3843c7} im \ usually \ dry \ and \ sometimes \ rude \ to \ strangers \ but, }$
-${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! }$
+<span style="color:#6852ad">i am mostly afk or offtab</span> <br>
+<span style="color:#564cb3">i also have public chat off 99% of the time</span> <br>
+<span style="color:#5640bf">if you want to talk to me, whisper me because i wont see it otherwise</span> <br>
+<span style="color:#3843c7">im usually dry and sometimes rude to strangers but,</span> <br>
+<span style="color:#2b3fd4">i will get more comfortable the more we talk!</span>
 
-$\color{b6a949}\textbf{\textsf{things\ i\ like}}$
+**things i like**
 
 <details>
 <summary></summary>
@@ -20,7 +20,7 @@ $\color{b6a949}\textbf{\textsf{things\ i\ like}}$
 
 </details>
 
-$\color{b6a949}\textbf{\textsf{dni\ list}}$
+**dni list**
 
 <details>
 <summary></summary>

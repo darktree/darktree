@@ -11,3 +11,17 @@
     </th>
   </tr>
   </table>
+
+
+<details>
+<summary>things i like</summary>
+
+⚬ snakes
+⚬ spiders and other insects
+⚬ warrior cats
+⚬ pokémon
+⚬ glitch shows (md, tadc, gameoverse etc)
+⚬ mlp
+⚬ dandy's world (i dont like the fandom nor game, i just like some of the characters)
+
+</details>

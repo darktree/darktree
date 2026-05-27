@@ -1,17 +1,8 @@
-  <table>
-  <tr>
-    <th>
-      $\color{4a54b5}\normalsize{\texttt{i am mostly afk or offtab and}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{have public chat messages off. so}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{if you want to int with me pls whisper}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{me otherwise i probably wont see it!}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{i am usually pretty dry to}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{strangers at first, but the more we talk}}$ <br>
-      $\color{4a54b5}\normalsize{\texttt{the more comfortable ill get!}}$ <br>
-    </th>
-  </tr>
-  </table>
-
+ ${\color{6852ad} i \ am \ mostly \ afk \ or \ offtab }$
+ ${\color{564cb3} i \ also \ have \ public \ chat \ off \ 99% \ of \ the \ time }$
+ ${\color{5640bf} if \ you \ want \ to \ talk \ to \ me, \ whisper \ me \ because \ i \ wont \ see \ it \ otherwise }$
+${\color{3843c7} im \ usually \ dry \ and \ sometimes \ rude \ to \ strangers \ but, }$
+${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! }$
 
 $\color{b6a949}\textbf{\textsf{things\ i\ like}}$
 

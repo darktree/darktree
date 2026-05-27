@@ -1,49 +1,22 @@
-<p align="center">
-$${\color{6852ad} i \ am \ mostly \ afk \ or \ offtab }$$
-</p>
-
-<p align="center">
-$${\color{564cb3} i \ also \ have \ public \ chat \ off \ 99 \ percent \ of \ the \ time }$$
-</p>
-
-<p align="center">
-$${\color{5640bf} if \ you \ want \ to \ talk \ to \ me, \ whisper \ me \ because \ i \ wont }$$
-</p>
-
-<p align="center">
-$${\color{5640bf} see \ it \ otherwise }$$
-</p>
-
-<p align="center">
-$${\color{3843c7} im \ usually \ dry \ and \ sometimes \ rude \ to \ strangers \ but, }$$
-</p>
-
-<p align="center">
-$${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! }$$
-</p>
-
-<p align="center">
-<details>
-<summary>things i like</summary>
-
-- snakes
-- spiders and other insects
-- warrior cats
-- pokémon
-- glitch shows (md, tadc, gameoverse etc)
-- mlp
-- dandy's world (i dont like the fandom nor game, i just like some of the characters)
-- my [friend!](https://github.com/daybreakcoalition)
-
-</details>
-
-<details>
-<summary>dni list</summary>
-
-- the type of pedophiles that actively hunt on children, zoophiles
-- racist, sexist or classists jokes, even if it's 'ragebait'
-- people that say any of these things: 'im just a girl', 'chat' (in the way of saying 'chat is this real?' for example), 'sigma', 'skibidi' and more like it
-- people that dont respect others boundaries, no matter the context
-- dandys world glazers, and just the dw fandom in general
-
-</details>
+<div align="center">
+  <details>
+    <summary>serpent ╱ serp . he | click2c more</summary>
+    <br>
+$\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if you wanna ttm}}$ 
+    <br>
+    $\color{#62A8BB}{\text{c'h is fine, but dont expect me to talk.}}$ 
+     <br><br>
+ $\color{#468C9E}{\text{i may be dry and even rude to strangers, but i will slowly warm up to ppl}}$
+    <br><br>
+  $\color{#467C9E}{\text{here are some of my fandoms i guess}}$
+  <br>
+    $\color{#38547B}{\text{warrior cats, pkmn, uu, glitch shows (tadc, md, gameoverse etc.), mlp, dw}}$
+     <br><br>
+    $\color{#2A47A5}{\text{dw fandom+glazers pls dni, i heavily dislike the fandom}}$
+    <br>
+        $\color{#2A47A5}{\text{i dont rlly have a large dni list just dont be rude to me and we'll be fine (mdni though, i dont want minors to int w/ me}}$
+     <br><br>
+        $\color{#5236B5}{\text{if we are talking and i start to act distant, dry or rude, pls stop talking to me bc im probably not in the mood}}$
+        <br>
+       
+  </details>

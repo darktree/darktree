@@ -1,4 +1,10 @@
 <div align="center">
+
+<img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/625bbb0b-31a6-47bc-a5de-ce3c1009cc90" />
+
+
+
+
   <details>
     <summary>serpent ╱ serp . he | click2c more</summary>
     <br>

@@ -8,7 +8,7 @@
 
 
   <details>
-    <summary>serpent ╱ serp . he | click2c more</summary>
+    <summary>serpent ╱ serp .  click2c more</summary>
     <br>
 $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if you wanna ttm}}$ 
     <br>

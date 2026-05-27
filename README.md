@@ -8,7 +8,7 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
      <br><br>
  $\color{#468C9E}{\text{i may be dry and even rude to strangers, but i will slowly warm up to ppl}}$
     <br><br>
-  $\color{#467C9E}{\text{here are some of my fandoms i guess}}$
+  $\color{#467C9E}{\text{here are some of my main fandoms i guess}}$
   <br>
     $\color{#38547B}{\text{warrior cats, pkmn, uu, glitch shows (tadc, md, gameoverse etc.), mlp, dw}}$
      <br><br>
@@ -20,3 +20,4 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
         <br>
        
   </details>
+

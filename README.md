@@ -1,10 +1,30 @@
+<p align="center">
 $${\color{6852ad} i \ am \ mostly \ afk \ or \ offtab }$$
-$${\color{564cb3} i \ also \ have \ public \ chat \ off \ 99\% \ of \ the \ time }$$
-$${\color{5640bf} if \ you \ want \ to \ talk \ to \ me, \ whisper \ me \ because \ i \ wont \ see \ it \ otherwise }$$
-$${\color{3843c7} im \ usually \ dry \ and \ sometimes \ rude \ to \ strangers \ but, }$$
-$${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! }$$
+</p>
 
+<p align="center">
+$${\color{564cb3} i \ also \ have \ public \ chat \ off \ 99 \ percent \ of \ the \ time }$$
+</p>
+
+<p align="center">
+$${\color{5640bf} if \ you \ want \ to \ talk \ to \ me, \ whisper \ me \ because \ i \ wont }$$
+</p>
+
+<p align="center">
+$${\color{5640bf} see \ it \ otherwise }$$
+</p>
+
+<p align="center">
+$${\color{3843c7} im \ usually \ dry \ and \ sometimes \ rude \ to \ strangers \ but, }$$
+</p>
+
+<p align="center">
+$${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! }$$
+</p>
+
+<p align="center">
 $${\color{b6a949}\textbf{\textsf{things\ i\ like}}}$$
+</p>
 
 <details>
 <summary></summary>
@@ -20,7 +40,9 @@ $${\color{b6a949}\textbf{\textsf{things\ i\ like}}}$$
 
 </details>
 
+<p align="center">
 $${\color{b6a949}\textbf{\textsf{dni\ list}}}$$
+</p>
 
 <details>
 <summary></summary>

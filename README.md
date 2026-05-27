@@ -13,8 +13,10 @@
   </table>
 
 
+$\color{b6a949}\textbf{\textsf{things\ i\ like}}$
+
 <details>
-<summary><span style="color: #b6a949;">things i like</span></summary>
+<summary></summary>
 
 - snakes
 - spiders and other insects
@@ -27,8 +29,10 @@
 
 </details>
 
+$\color{b6a949}\textbf{\textsf{dni\ list}}$
+
 <details>
-<summary><span style="color: #b6a949;">dni list</span></summary>
+<summary></summary>
 
 - the type of pedophiles that actively hunt on children, zoophiles
 - racist, sexist or classists jokes, even if it's 'ragebait'

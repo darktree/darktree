@@ -23,11 +23,8 @@ $${\color{2b3fd4} i \ will \ get \ more \ comfortable \ the \ more \ we \ talk! 
 </p>
 
 <p align="center">
-$${\color{b6a949}\textbf{\textsf{things\ i\ like}}}$$
-</p>
-
 <details>
-<summary></summary>
+<summary>things i like</summary>
 
 - snakes
 - spiders and other insects
@@ -40,12 +37,8 @@ $${\color{b6a949}\textbf{\textsf{things\ i\ like}}}$$
 
 </details>
 
-<p align="center">
-$${\color{b6a949}\textbf{\textsf{dni\ list}}}$$
-</p>
-
 <details>
-<summary></summary>
+<summary>dni list</summary>
 
 - the type of pedophiles that actively hunt on children, zoophiles
 - racist, sexist or classists jokes, even if it's 'ragebait'

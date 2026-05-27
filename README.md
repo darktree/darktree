@@ -26,3 +26,14 @@
 - my [friend!](https://github.com/daybreakcoalition)
 
 </details>
+
+<details>
+<summary>dni list</summary>
+
+- the type of pedophiles that actively hunt on children, zoophiles
+- racist, sexist or classists jokes, even if it's 'ragebait'
+- people that say any of these things: 'im just a girl', 'chat' (in the way of saying 'chat is this real?' for example), 'sigma', 'skibidi' and more like it
+- people that dont respect others boundaries, no matter the context
+- dandys world glazers, and just the dw fandom in general
+
+</details>

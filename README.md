@@ -23,5 +23,6 @@
 - glitch shows (md, tadc, gameoverse etc)
 - mlp
 - dandy's world (i dont like the fandom nor game, i just like some of the characters)
+- my [friend!](https://github.com/daybreakcoalition)
 
 </details>

@@ -12,7 +12,7 @@
   </tr>
   </table>
 
-
+$\color{b6a949}
 <details>
 <summary>things i like</summary>
 

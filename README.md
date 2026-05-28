@@ -22,7 +22,7 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
      <br><br>
     $\color{#2A47A5}{\text{dw fandom+glazers pls dni, i heavily dislike the fandom}}$
     <br>
-        $\color{#2A47A5}{\text{i dont rlly have a large dni list just dont be rude to me and we'll be fine (mdni though, i dont want minors to int w/ me}}$
+        $\color{#2A47A5}{\text{-13 dni . other than that i think i dont have much on my dni, js be nice to me and we'll get along}}$
      <br><br>
         $\color{#5236B5}{\text{if we are talking and i start to act distant, dry or rude, pls stop talking to me bc im probably not in the mood}}$
         <br>

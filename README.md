@@ -24,7 +24,7 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
     <br>
         $\color{#2A47A5}{\text{-13 dni . other than that i think i dont have much on my dni, js be nice to me and we'll get along}}$
      <br><br>
-        $\color{#5236B5}{\text{if we are talking and i start to act distant, dry or rude, pls stop talking to me bc im probably not in the mood}}$
+        $\color{#5236B5}{\text{if i seem distant or stop responding, i’m probably not in the mood to talk.}}$
         <br><br>
          $\color{#5236B5}{\text{please don't hit me w/ random items, boop me or sneeze on me in pt unless ik you. i find it rlly annoying especially when im with friends.}}$
         <br>

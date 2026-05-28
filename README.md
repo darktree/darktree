@@ -28,7 +28,7 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
         <br><br>
          $\color{#5236B5}{\text{please don't hit me w/ random items, boop me or sneeze on me in pt unless ik you. i find it rlly annoying especially when im with friends.}}$
         <br>
-        $\color{#5236B5}{\text{i will likely ignore you, and hide you if you continue doing it}}$
+        $\color{#5236B5}{\text{i will likely ignore you, and hide you if you continue doing it. call me sensitive idc, its js annoying af}}$
         <br><br>
        
   </details>

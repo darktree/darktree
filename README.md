@@ -1,13 +1,5 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&pause=1000&color=780000&background=FFFFFF00&center=true&width=435&lines=I+am+happy+because+everyone+loves+me.)](https://git.io/typing-svg)
-
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/625bbb0b-31a6-47bc-a5de-ce3c1009cc90" />
-
-
-
-
-  <details>
+<details>
     <summary>serpent ╱ serp .  click2c more</summary>
     <br>
 $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if you wanna ttm}}$ 

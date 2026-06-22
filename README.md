@@ -10,9 +10,9 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
     <br><br>
   $\color{#467C9E}{\text{here are some of my main fandoms i guess}}$
   <br>
-    $\color{#38547B}{\text{warrior cats, pkmn, uu, glitch shows (tadc, md, gameoverse etc.), mlp, dw}}$
+    $\color{#38547B}{\text{warrior cats, pkmn, mj, animal jam}$
      <br><br>
-    $\color{#2A47A5}{\text{dw fandom+glazers pls dni, i heavily dislike the fandom}}$
+    $\color{#2A47A5}{\text{dw fandom dni please holy sht}}$
     <br>
         $\color{#2A47A5}{\text{-13 dni . other than that i think i dont have much on my dni, js be nice to me and we'll get along}}$
      <br><br>

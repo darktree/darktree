@@ -10,7 +10,7 @@ $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if yo
     <br><br>
   $\color{#467C9E}{\text{here are some of my main fandoms i guess}}$
   <br>
-    $\color{#38547B}{\text{warrior cats, pkmn, mj, animal jam}$
+    $\color{#38547B}{\text{warrior cats, pkmn, mj, animal jam}}$
      <br><br>
     $\color{#2A47A5}{\text{dw fandom dni please holy sht}}$
     <br>

@@ -1,6 +1,6 @@
 <div align="center">
 <details>
-    <summary>serpent ╱ serp .  click2c more</summary>
+    <summary>click2c more i guess</summary>
     <br>
 $\color{#62A8D4}{\text{im usually offtab with public chat off. pls whisper if you wanna ttm}}$ 
     <br>

@@ -3,6 +3,8 @@
 
 <img width="150" height="20" alt="tumblr_06a0591318e2eeedcfbc2cb77490a33d_f99e2cce_250" src="https://github.com/user-attachments/assets/cc1f168a-26bf-45b3-9d85-d1919ff78a1e" />
 <img width="150" height="20" alt="EclipseBlinkie" src="https://github.com/user-attachments/assets/1f287da2-0ade-409d-ad12-119f9c6b5339" />
+<img width="150" height="20" alt="121141285_NpC" src="https://github.com/user-attachments/assets/0c523800-8f37-42a1-b859-00c94823cb2b" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Bold&pause=1000&color=3902D1&background=FFFFFF00&center=true&width=435&lines=Happy+Halloween!)](https://git.io/typing-svg)
 
@@ -12,8 +14,11 @@
 <img width="216" height="128" alt="tumblr_6f55f159e3329fe454f748139e80ff41_bbded63d_250" src="https://github.com/user-attachments/assets/5b7179b0-3791-4f38-8fe1-1114241d69a4" />
 <img width="216" height="128" alt="tumblr_7e1fd9304227d1eee72387c7bdf8a672_bddd4ee7_250" src="https://github.com/user-attachments/assets/2a034ed9-0135-4aac-946e-63316ff0424c" />
 
+
 <img width="99" height="55" alt="tumblr_2b467041226c0917e32984ac56af74f7_f832160f_250" src="https://github.com/user-attachments/assets/6af3d2fc-448b-4424-84ea-be1fa36d74ab" />
+<img width="99" height="55" alt="tumblr_8d1b2250a10e51f164b31d4ee419e571_83f2db80_100" src="https://github.com/user-attachments/assets/2a7910b6-f99d-4e8a-8210-9fcf496c5a87" />
 <img width="99" height="55" alt="tumblr_3b0edfe8a835fd5c0f7c1158459cb60b_793ea7fc_100" src="https://github.com/user-attachments/assets/a36bc2bf-0e77-4aef-9158-4f8f36df4510" />
+<img width="99" height="55" alt="121125135_IHw" src="https://github.com/user-attachments/assets/83b75e86-3fb6-4b1f-9e34-3b99c5445608" />
 
 
 

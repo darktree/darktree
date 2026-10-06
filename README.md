@@ -2,6 +2,7 @@
 <img width="1280" height="427" alt="tumblr_875eb1f22fbbe55cd3d80c512b13d2ed_72814403_1280" src="https://github.com/user-attachments/assets/dde6835b-e66b-4b07-917c-85843e13a356" />
 
 <img width="150" height="20" alt="tumblr_06a0591318e2eeedcfbc2cb77490a33d_f99e2cce_250" src="https://github.com/user-attachments/assets/cc1f168a-26bf-45b3-9d85-d1919ff78a1e" />
+<img width="150" height="20" alt="EclipseBlinkie" src="https://github.com/user-attachments/assets/1f287da2-0ade-409d-ad12-119f9c6b5339" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Bold&pause=1000&color=3902D1&background=FFFFFF00&center=true&width=435&lines=Happy+Halloween!)](https://git.io/typing-svg)
 
